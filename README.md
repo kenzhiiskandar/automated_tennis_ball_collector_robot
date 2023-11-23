@@ -17,10 +17,10 @@ The robot utilizes the Vex ARM Cortex-based Microcontroller for electrical contr
 The robot employs two IR Sharp Distance Sensors placed at its front (left and right) to detect the ball, while relying on the Digital Compass 1490 for navigation.
 
 When searching, the robot follows a sequence of movements: moves straight, then turns left and right. If it locates a ball, it collects the ball and proceeds to return it. If no ball is found, the robot persists in its search routine: moving straight, turning left, and then right. To ensure comprehensive coverage of the arena, the search algorithm utilizes the compass for guidance. The direction of search depends on the robot's orientation and boundary detection, following this pattern:
-(a) Searches forward in the north direction until it hits the yellow boundary line,
-(b) Searches to the west until it encounters another yellow boundary,
-(c) Continues the search southward,
-(d) Explores eastward before returning to (a).
+(a) Searches forward in the north direction until it hits the yellow boundary line, <br>
+(b) Searches to the west until it encounters another yellow boundary,<br>
+(c) Continues the search southward,<br>
+(d) Explores eastward before returning to (a).<br>
 
 ![image](https://github.com/kenzhiiskandar/automated_tennis_ball_collector_robot/assets/120554498/3e32d3ac-0f4e-470a-9985-f3ac2f1e39f2)
 
