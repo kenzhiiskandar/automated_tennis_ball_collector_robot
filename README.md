@@ -8,12 +8,12 @@ https://github.com/kenzhiiskandar/automated_tennis_ball_collector_robot/assets/1
 ![image](https://github.com/kenzhiiskandar/automated_tennis_ball_collector_robot/assets/120554498/6b12e3d5-aee0-43dd-8f8a-e3dade63ed57)
 
 ## Robot Mechanical Design
-![image](https://github.com/kenzhiiskandar/automated_tennis_ball_collector_robot/assets/120554498/127cd687-277c-48cf-9114-68d4fab68182)
+![image](https://github.com/kenzhiiskandar/automated_tennis_ball_collector_robot/assets/120554498/f2066025-6098-4136-a743-0834b6b85fb3)
 
 ## Robot Drive Systems
 The robot utilizes the Vex ARM Cortex-based Microcontroller for electrical control management. The robot implements a robust 2-wheel drive system, driven by Vex Continuous Rotation Motor, and a caster wheel at the front of the robot. Its energy requirements are efficiently met by the NiMH Battery Pack boasting a voltage rating of 7.2V and a capacity of 3000mAH.
 
-## Robot Searching Systems
+## Robot Searching Navigation Systems
 The robot employs two IR Sharp Distance Sensors placed at its front (left and right) to detect the ball, while relying on the Digital Compass 1490 for navigation.
 
 When searching, the robot follows a sequence of movements: moves straight, then turns left and right. If it locates a ball, it collects the ball and proceeds to return it. If no ball is found, the robot persists in its search routine: moving straight, turning left, and then right. To ensure comprehensive coverage of the arena, the search algorithm utilizes the compass for guidance. The direction of search depends on the robot's orientation and boundary detection, following this pattern:
