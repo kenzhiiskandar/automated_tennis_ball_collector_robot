@@ -29,3 +29,6 @@ During the return phase, the robot orients itself northward, using the digital c
 
 ## Robot Boundary Line Detection Systems
 The robot utilizes IR Line Tracking Module Sensors mounted at its four corners to detect the boundary lines. Whenever any of these sensors detect the boundary line, the robot triggers specific maneuvering mechanisms to re-adjust its position back within the arena boundaries. Additionally, these boundary line detection systems play a crucial role in guiding the navigation and execution of the searching algorithm.
+
+## Robot Opponent Detection Systems
+Two additional Sharp Distance Sensors are strategically positioned at both the front and back of the robot, situated halfway up the robot's structure. Due to the compact and robust design of our robot, these sensors serve a specific purpose: when they detect an object within their range, the robot adjusts its movement to approach the detected object, aiming to make contact with it. Specifically, this design approach facilitates the robot's tactic to move closer to an opponent and execute physical contact as part of its strategy.
