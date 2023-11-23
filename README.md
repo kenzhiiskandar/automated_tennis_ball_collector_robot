@@ -6,8 +6,8 @@ https://github.com/kenzhiiskandar/automated_tennis_ball_collector_robot/assets/1
 
 ## Robot Overview
 
-![IMG_4980](https://github.com/kenzhiiskandar/automated_tennis_ball_collector_robot/assets/120554498/e459c57f-2b6d-4a7b-801c-44e2189eed40)
-![IMG_4990](https://github.com/kenzhiiskandar/automated_tennis_ball_collector_robot/assets/120554498/cf34598f-b2ed-4299-9928-915bf5c6bd9e)
+![Uploading image.png…]()
+
 
 ## Robot Mechanical Design
 ![image](https://github.com/kenzhiiskandar/automated_tennis_ball_collector_robot/assets/120554498/127cd687-277c-48cf-9114-68d4fab68182)
