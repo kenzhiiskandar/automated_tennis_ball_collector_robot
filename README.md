@@ -5,9 +5,7 @@ This project aims to design and build a compact autonomous robot to search, retr
 https://github.com/kenzhiiskandar/automated_tennis_ball_collector_robot/assets/120554498/7be5cba8-c8c6-4ee8-a126-41c91ef14f99
 
 ## Robot Overview
-
-![Uploading image.png…]()
-
+![image](https://github.com/kenzhiiskandar/automated_tennis_ball_collector_robot/assets/120554498/6b12e3d5-aee0-43dd-8f8a-e3dade63ed57)
 
 ## Robot Mechanical Design
 ![image](https://github.com/kenzhiiskandar/automated_tennis_ball_collector_robot/assets/120554498/127cd687-277c-48cf-9114-68d4fab68182)
